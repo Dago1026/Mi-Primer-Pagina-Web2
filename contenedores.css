@@ -1,0 +1,22 @@
+contenedores.css
+.menu {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+        }
+
+.menu li {
+    display:none;
+    margin-right: 10px;
+        }
+
+.menu li {
+    text-decoration:none;
+    color: aquamarine;
+    padding: 5px 10px;
+        }
+
+.menu li a:hover{
+    background-color: bisque;
+    color: blue;
+                }  

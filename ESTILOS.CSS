@@ -1,0 +1,37 @@
+.background{
+width: max-content;
+height: max-content;
+background-image: url(Fondo\ 2.jpg);
+background-size: cover;
+background-position: center;
+}
+
+body{
+background-image:#fff, url(/Fondo3.jpg);
+background-size:cover;
+background-image: #fff, url(/Fondo3.jpg);
+background-repeat: no-repeat;
+}
+.HOME{
+   color:rgb(244, 240, 236)
+
+}
+.SERVICES{
+    color:rgb(244, 240, 236)
+ 
+ }
+ .CONTACT{
+    color:rgb(244, 240, 236)
+ 
+ }
+
+.box{
+    
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: stretch;
+        align-content: stretch;
+    
+}
